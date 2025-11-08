@@ -4,11 +4,9 @@ A simple and customizable **Python password generator** that helps you create st
 
 ---
 
-## 📦 Project Overview
+##This repository contains two password generator scripts:
 
-This repository contains two password generator scripts:
-
-### [1] Basic Password Generator (Simple Version)
+#### [1] Basic Password Generator (Simple Version)
 A beginner-friendly Python script that generates random passwords using letters, numbers, and symbols — in the order you choose.
 
 **Features**
@@ -18,7 +16,7 @@ A beginner-friendly Python script that generates random passwords using letters,
 
 ---
 
-### [2] PyPassword Generator (Advanced Version)
+#### [2] PyPassword Generator (Advanced Version)
 A more customizable version that generates **stronger, randomized passwords**.
 
 **How It Works**
